@@ -4,7 +4,9 @@
     "CreatedOn": "2025-05-30T09:08:34.015011Z",
     "TotalEstimation": 60,
     "Status": "Draft",
-    "PlannedDate": "2025-06-09T00:00:00"
+    "PlannedDate": "2025-06-10T00:00:00",
+    "Remarks": "",
+    "Deducted": true
   },
   "materials": [
     {
