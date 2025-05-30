@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "PurchaseListID": "PL_20250530_002",
+    "CreatedOn": "2025-05-30T09:08:34.015011Z",
+    "TotalEstimation": 60,
+    "Status": "Draft",
+    "PlannedDate": "2025-06-09T00:00:00"
+  },
+  "materials": [
+    {
+      "SlNo": 1,
+      "MID": "MID20283",
+      "Title": "Toroidal Transformer (120VA; PRI:0-230V, SEC:24-0-24V (2*2.5A))",
+      "PartNumber": "BH120-20980-2",
+      "Manufacturer": "SHANGHAL TENGSHENG ELECTROMECHANICAL MANUFACTURE Co.,Ltd",
+      "SupplierType": "Online",
+      "SupplierName": "MOUSER.IN",
+      "Quantity": 2,
+      "UnitCost": 10,
+      "Estimation": 20,
+      "PlannedDate": null,
+      "ListStatus": null
+    },
+    {
+      "SlNo": 2,
+      "MID": "MID20277",
+      "Title": "Power MOSFET (N-type)",
+      "PartNumber": "STP6N62K3",
+      "Manufacturer": "STM",
+      "SupplierType": "Online",
+      "SupplierName": "MOUSER.IN",
+      "Quantity": 3,
+      "UnitCost": 10,
+      "Estimation": 30,
+      "PlannedDate": null,
+      "ListStatus": null
+    },
+    {
+      "SlNo": 3,
+      "MID": "MID20284",
+      "Title": "4G/5G Bracket Antenna (698-2700MHz)",
+      "PartNumber": "B4BE-6-60-5SP",
+      "Manufacturer": "PANORAMA ANTENNAS",
+      "SupplierType": "Online",
+      "SupplierName": "MOUSER.IN",
+      "Quantity": 1,
+      "UnitCost": 10,
+      "Estimation": 10,
+      "PlannedDate": null,
+      "ListStatus": null
+    }
+  ]
+}
